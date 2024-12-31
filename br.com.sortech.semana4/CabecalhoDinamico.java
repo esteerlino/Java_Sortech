@@ -1,4 +1,4 @@
-package br.com.sortech.semana4;/*TAREFA 06 - implementar um cabeçalho dinâmico
+/*TAREFA 06 - implementar um cabeçalho dinâmico
 utilizando laços. O sistema deve apresentar as linhas
 conforme o valor da variável.*/
 
