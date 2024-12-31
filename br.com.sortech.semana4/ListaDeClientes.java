@@ -1,4 +1,4 @@
-package br.com.sortech.semana4;/*TAREFA 02 - Criar uma listagem de clientes
+/*TAREFA 02 - Criar uma listagem de clientes
 utilizando variáveis primitivas para representar
 o ano de nascimento dos clientes.*/
 
