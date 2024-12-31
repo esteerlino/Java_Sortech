@@ -1,4 +1,4 @@
-package br.com.sortech.semana4;/*TAREFA 04 - alterar a listagem de clientes para
+/*TAREFA 04 - alterar a listagem de clientes para
 utilizar as variáveis do tipo String para representar
 os nomes dos clientes.*/
 
