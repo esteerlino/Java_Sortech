@@ -1,4 +1,4 @@
-package br.com.sortech.semana4;/*TAREFA 05 - alterar a listagem de clientes para
+/*TAREFA 05 - alterar a listagem de clientes para
 implementar a característica etária do cliente.*/
 
 
