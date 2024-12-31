@@ -1,4 +1,4 @@
-package br.com.sortech.semana4;/*TAREFA 03 - Criar uma listagem de produtos utilizando
+/*TAREFA 03 - Criar uma listagem de produtos utilizando
 variáveis primitivas para representar o preço dos produtos. */
 
 
